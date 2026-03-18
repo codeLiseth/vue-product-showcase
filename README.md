@@ -20,7 +20,7 @@ Funcionalidades
 - Carrito de compras con contador y total
 - Interfaz responsive con Vuetify
 
-Testing
+## Testing ##
 
 Se implementaron dos pruebas unitarias: una para validar el renderizado correcto del componente ProductCard, comprobando que muestra la información del producto, y otra para verificar la respuesta visual ante un error en la carga de datos en ProductList.
 
@@ -29,6 +29,12 @@ Evidencia de pruebas
 Se ejecutaron pruebas unitarias con Vitest, obteniendo resultados exitosos:
 
 ![Tests](docs/Tests.png)
+
+## Prueba end-to-end ##
+
+Se implementó una prueba end-to-end con Cypress para validar el flujo de filtrado de productos por categoría.
+
+![E2E Test](docs/e2e-test.png)
 
 ### Instalación ###
 
