@@ -34,7 +34,7 @@ Se ejecutaron pruebas unitarias con Vitest, obteniendo resultados exitosos:
 
 1-Clonar el repositorio:
 
-git clone https://github.com/TU-USUARIO/vue-product-showcase.git
+git clone https://github.com/codeLiseth/vue-product-showcase
 
 2-Entrar a la carpeta del proyecto:
 
